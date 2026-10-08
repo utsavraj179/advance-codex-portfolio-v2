@@ -5,7 +5,7 @@ export const SOCIAL_LINKS = {
   instagram: "#",
   twitter: "#",
   youtube: "#",
-  email: "mohsin.dev.contact@gmail.com"
+  email: "mowazofficial7866@gmail.com"
 };
 
 export const SOCIALS = [
