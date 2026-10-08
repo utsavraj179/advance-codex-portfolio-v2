@@ -182,7 +182,7 @@ export const projects = [
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/MohsinAli088/",
+    source_code_link: "https://github.com/Mowaz.exe/",
   },
   {
     name: "Kreo Hub",
@@ -203,7 +203,7 @@ export const projects = [
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/MohsinAli088/",
+    source_code_link: "https://github.com/Mowaz.exe/",
   },
   {
     name: "Bot Control",
@@ -251,6 +251,6 @@ export const projects = [
 
 export const SOCIAL_LINKS = {
   github: "https://github.com/MohsinAli088/",
-  discord: "https://discord.gg/codexdevs",
-  email: "mohsin.dev.contact@gmail.com",
+  discord: "https://discord.gg/gtQ5j35VVt",
+  email: "mowazofficial786@gmail.com",
 };
