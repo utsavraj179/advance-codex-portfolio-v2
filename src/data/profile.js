@@ -1,6 +1,6 @@
 export const PROFILE = {
-  name: "MOHSIN",
-  handle: "Mohsin.Exe",
+  name: "MOWAZ",
+  handle: "Mowaz.Exe",
   role: "Creative Developer",
   titles: [
     "Discord Bot Developer",
@@ -8,7 +8,7 @@ export const PROFILE = {
     "Open Source Developer",
     "Creative Developer"
   ],
-  heroHeading: "HEY, I'M MOHSIN.",
+  heroHeading: "HEY, I'M MOWAZ.",
   heroStatement: "I BUILD DIGITAL EXPERIENCES THAT FEEL ALIVE.",
   aboutHeading: "BUILDING DIGITAL SYSTEMS WITH CHARACTER.",
   aboutDescription:
